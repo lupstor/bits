@@ -1,0 +1,70 @@
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe.config
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe.manifest
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.application
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.pdb
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.ADocumento.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Aprobacion.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Aprobaciones.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Documentos.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.MDocumento.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.RegistroAnexo.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Inicio.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Login.Login.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Area.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Areas.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Nivel.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Niveles.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Seccion.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Secciones.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Subseccion.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Subsecciones.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Tipo.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Tipos.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Usuario.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Usuarios.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Properties.Resources.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.exe.manifest
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.application
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.exe
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.pdb
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Log.resources
+E:\HerDoc\Documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.DetalleLog.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe.config
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.exe
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.pdb
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe.manifest
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.application
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.exe
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\bin\Debug\ControlDeDocumentos.pdb
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.ADocumento.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Aprobacion.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Aprobaciones.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.Documentos.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.MDocumento.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Documento.RegistroAnexo.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Inicio.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Login.Login.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Area.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Areas.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.DetalleLog.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Log.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Nivel.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Niveles.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Seccion.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Secciones.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Subseccion.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Subsecciones.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Tipo.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Tipos.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Usuario.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Mantenimientos.Usuarios.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.Properties.Resources.resources
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.exe.manifest
+C:\Documents and Settings\herber\Mis documentos\Visual Studio 2010\Projects\ControlDeDocumentos\ControlDeDocumentos\obj\x86\Debug\ControlDeDocumentos.application

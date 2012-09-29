@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE6408CE-60A1-4723-8989-F7171513A13A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlDeDocumentos</RootNamespace>
+    <AssemblyName>ControlDeDocumentos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D8E51A970EE541923BB669F28C153492B29B311C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ControlDeDocumentos_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Documento\ADocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\ADocumento.Designer.cs">
+      <DependentUpon>ADocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento\Aprobacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\Aprobacion.Designer.cs">
+      <DependentUpon>Aprobacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento\Aprobaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\Aprobaciones.Designer.cs">
+      <DependentUpon>Aprobaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento\Documentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\Documentos.Designer.cs">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento\MDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\MDocumento.Designer.cs">
+      <DependentUpon>MDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento\RegistroAnexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento\RegistroAnexo.Designer.cs">
+      <DependentUpon>RegistroAnexo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Area.Designer.cs">
+      <DependentUpon>Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Areas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Areas.Designer.cs">
+      <DependentUpon>Areas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\DetalleLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\DetalleLog.Designer.cs">
+      <DependentUpon>DetalleLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Log.Designer.cs">
+      <DependentUpon>Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Nivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Nivel.Designer.cs">
+      <DependentUpon>Nivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Niveles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Niveles.Designer.cs">
+      <DependentUpon>Niveles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Seccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Seccion.Designer.cs">
+      <DependentUpon>Seccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Secciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Secciones.Designer.cs">
+      <DependentUpon>Secciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Subseccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Subseccion.Designer.cs">
+      <DependentUpon>Subseccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Subsecciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Subsecciones.Designer.cs">
+      <DependentUpon>Subsecciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Tipo.Designer.cs">
+      <DependentUpon>Tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Tipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Tipos.Designer.cs">
+      <DependentUpon>Tipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="script\Combo.cs" />
+    <Compile Include="Mantenimientos\Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="script\DataManager.cs" />
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="script\DetalleLog.cs" />
+    <Compile Include="script\Encryption.cs" />
+    <Compile Include="script\ExportToExcel.cs" />
+    <Compile Include="script\ResponseSql.cs" />
+    <Compile Include="script\Section.cs" />
+    <Compile Include="script\UserDat.cs" />
+    <EmbeddedResource Include="Documento\ADocumento.resx">
+      <DependentUpon>ADocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento\Aprobacion.resx">
+      <DependentUpon>Aprobacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento\Aprobaciones.resx">
+      <DependentUpon>Aprobaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento\Documentos.resx">
+      <DependentUpon>Documentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento\MDocumento.resx">
+      <DependentUpon>MDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento\RegistroAnexo.resx">
+      <DependentUpon>RegistroAnexo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Area.resx">
+      <DependentUpon>Area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Areas.resx">
+      <DependentUpon>Areas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\DetalleLog.resx">
+      <DependentUpon>DetalleLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Log.resx">
+      <DependentUpon>Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Nivel.resx">
+      <DependentUpon>Nivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Niveles.resx">
+      <DependentUpon>Niveles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Seccion.resx">
+      <DependentUpon>Seccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Secciones.resx">
+      <DependentUpon>Secciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Subseccion.resx">
+      <DependentUpon>Subseccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Subsecciones.resx">
+      <DependentUpon>Subsecciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Tipo.resx">
+      <DependentUpon>Tipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Tipos.resx">
+      <DependentUpon>Tipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ControlDeDocumentos_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\icono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\LogoQualipharm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\agregar.png" />
+    <Content Include="Images\buscar.png" />
+    <Content Include="Images\cancel.png" />
+    <Content Include="Images\cer.gif" />
+    <Content Include="Images\eliminar.png" />
+    <Content Include="Images\Excel_icon.png" />
+    <Content Include="Images\LaST %28Cobalt%29 Excel.png" />
+    <Content Include="Images\login.png" />
+    <Content Include="Images\modificar.png" />
+    <Content Include="Images\ok.png" />
+    <Content Include="Images\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Horarios\Code\" />
+    <Folder Include="Horarios\Forms\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
